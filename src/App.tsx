@@ -1,7 +1,9 @@
+import React from 'react'
 import {Route, Routes} from 'react-router-dom'
 import {ProductsPage} from './pages/ProductsPage'
 import {AboutPage} from './pages/AboutPage'
 import {Navigation} from './components/Navigation'
+
 
 function App() {
   return (
